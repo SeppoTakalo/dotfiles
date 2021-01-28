@@ -17,6 +17,7 @@ This is not a complete. For some plugins&packages you need to manually clone and
 
 ```
 sudo apt install i3 rofi zsh
+pip3 install pywal
 ```
 
 Get polybar from: https://github.com/polybar/polybar/releases
